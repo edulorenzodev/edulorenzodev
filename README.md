@@ -1,5 +1,5 @@
 <p width="300">
-   <img align="center" width="200" />
+   <!-- <img align="center" width="200" /> -->
    <h3>¡Hey 👋! Soy edulorenzodev 👨🏻‍💻</h3>
 </p>
 
