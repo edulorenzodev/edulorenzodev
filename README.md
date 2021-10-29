@@ -2,8 +2,6 @@
    <!-- <img align="center" width="200" /> -->
    <h3>¡Hey 👋! I am edulorenzodev 👨🏻‍💻</h3>
 </p>
-I am a Developer with some year of experience.
-Check out my content 👇!
 <p>I am <strong>Software Developer</strong> with some year of experience.<br />Check out my content 👇!</p>
 <p>
    
