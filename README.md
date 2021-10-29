@@ -1,20 +1,40 @@
 ### Hi there 👋
-<p align="center" width="300">
-   <img align="center" width="200" src="https://twitter.com/edulorenzo_/photo" />
-   <h3 align="center">¡Hey 👋! Soy edulorenzodev 👨🏻‍💻</h3>
+
+<p width="300">
+   <img align="center" width="200" />
+   <h3>¡Hey 👋! Soy edulorenzodev 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador</strong> con algún año de experiencia.<br />¡Revisa mi contenido 👇!</p>
-<p align="center">
+<p>Soy <strong>Desarrollador</strong> con algún año de experiencia.<br />¡Revisa mi contenido 👇!</p>
+<p>
+   
    <a href="https://twitch.tv/edulore" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="midudev" height="28px" width="28px" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="edulore" height="28px" width="28px" />
   </a>
   <a href=https://twitter.com/edulorenzo_" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="edulorenzo_" height="28px" width="28px" />
   </a>
+  <a href=https://www.linkedin.com/in/edu-lorenzo/" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="edulorenzo_" height="28px" width="28px" />
+  </a>                                                                                                                                            
+                                                                                                                                            
 </p>
-
-
+                                                                                                                                        
+#### :computer: Programming languages and tools: 
+<p>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://hasura.io/static/ibm-db2-ff62415363a34e94ff3b11938ba5c196.png"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</p>                                                                                                                                        
+                                                                                                                                        
 <!--
 **edulorenzodev/edulorenzodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
