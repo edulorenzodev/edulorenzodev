@@ -1,9 +1,10 @@
 <p width="300">
    <!-- <img align="center" width="200" /> -->
-   <h3>¡Hey 👋! Soy edulorenzodev 👨🏻‍💻</h3>
+   <h3>¡Hey 👋! I am edulorenzodev 👨🏻‍💻</h3>
 </p>
-
-<p>Soy <strong>Desarrollador</strong> con algún año de experiencia.<br />¡Revisa mi contenido 👇!</p>
+I am a Developer with some year of experience.
+Check out my content 👇!
+<p>I am <strong>Software Developer</strong> with some year of experience.<br />Check out my content 👇!</p>
 <p>
    
    <a href="https://twitch.tv/edulore" target="blank" style='margin-right:4px'>
