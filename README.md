@@ -19,12 +19,6 @@
 
 ### ***How to reach me 📫***
 <p>
-   <a href="https://twitch.tv/edulore" target="blank" style='margin-right:4px'>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="edulore" height="28px" width="28px" />
-  </a>
-  <a href=https://twitter.com/edulorenzo_" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="edulorenzo_" height="28px" width="28px" />
-  </a>
   <a href=https://www.linkedin.com/in/edu-lorenzo/" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="edulorenzo_" height="28px" width="28px" />
   </a>
