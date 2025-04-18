@@ -30,7 +30,14 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</p>                                                                                                                                        
+</p>
+
+### ***Tech Stack 💻***
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,c,cpp,css,discord,docker,postgres,prisma,nest,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+  </a>
+</p>
                                                                                                                                         
 <!--
 **edulorenzodev/edulorenzodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
