@@ -8,8 +8,6 @@
 - :technologist: I love using Software as a solution for every <code>Problem</code>.
 - 😍 My hobbies are reading and woodworking.
 - 🛠️ Always <code>learning new things</code>.
-- :thinking: I’m currently open for a new <code>job opportunity</code>, this is <a href="https://agustincastets.vercel.app/pdf/curriculum.pdf">MY RESUME</a>.
-- :boom: You can visit <a href="https://agustincastets.vercel.app">MY WEBSITE</a>.
 
 
 ### ***Tech Stack 💻***
