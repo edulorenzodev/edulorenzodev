@@ -13,7 +13,7 @@
 ### ***Tech Stack 💻***
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,c,cpp,css,discord,docker,postgres,prisma,nest,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,javascript,react,angular,typescript,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,c,cpp,css,discord,docker,postgres,prisma,nest,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,javascript,react,angular,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
