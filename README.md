@@ -6,7 +6,7 @@
 <p>I am <strong>Software Developer</strong> with +7 year of experience.<br />Check out my content 👇!</p>
 
 - :technologist: I love using Software as a solution for every <code>Problem</code>.
-- 😍 My hobbies are reading and woodworking.
+- 😍 My hobbies are reading and sports🏀.
 - 🛠️ Always <code>learning new things</code>.
 
 
