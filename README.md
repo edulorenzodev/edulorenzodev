@@ -1,6 +1,6 @@
 <h1 align="center"><b>¡Hey 👋! I am Edu Lorenzo 👨🏻‍💻</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" alt="made with css" src="https://github.com/edulorenzodev/EfectosCSS_Neon/blob/master/neon.gif" width="300px" height="auto" style={{borderRadius: "var(--radius-3xl)"}}/>
+<img align="right" alt="made with css" src="https://github.com/edulorenzodev/EfectosCSS_Neon/blob/master/neon.gif" width="300px" height="auto" style="borderRadius:1.5rem"/>
 
 ### ***About me*** 🚀
 <p>I am <strong>Software Developer</strong> with +7 year of experience.<br />Check out my content 👇!</p>
